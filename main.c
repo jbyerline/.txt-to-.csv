@@ -2,7 +2,7 @@
 //  main.c
 //  ME-30 Final Project - Arduino .txt to Matlab .csv file converter
 //
-//  Created by Jacob Byerline, Charles Ho, and Collin Rikkelman on 12/9/17.
+//  Created by Jacob Byerline on 12/9/17.
 //  Copyright © 2017 Jacob Byerline, Charles Ho, and Collin Rikkelman. All rights reserved.
 //
 
