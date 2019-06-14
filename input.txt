@@ -1,0 +1,2255 @@
+Press and release switch 0
+Release switch 0
+---------------------------
+time:  0 ms
+potentiometer: 0.41
+temperature: 0.16
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  20 ms
+potentiometer: 0.41
+temperature: 0.16
+light: 0.04
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  40 ms
+potentiometer: 0.41
+temperature: 0.16
+light: 0.04
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  60 ms
+potentiometer: 0.41
+temperature: 0.16
+light: 0.04
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  80 ms
+potentiometer: 0.28
+temperature: 0.16
+light: 0.04
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  100 ms
+potentiometer: 0.07
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  120 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  140 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  160 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.08
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  180 ms
+potentiometer: 0.13
+temperature: 0.16
+light: 0.12
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  200 ms
+potentiometer: 0.58
+temperature: 0.16
+light: 0.11
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  220 ms
+potentiometer: 0.74
+temperature: 0.15
+light: 0.10
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  240 ms
+potentiometer: 0.69
+temperature: 0.15
+light: 0.11
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  260 ms
+potentiometer: 0.52
+temperature: 0.16
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  280 ms
+potentiometer: 0.24
+temperature: 0.16
+light: 0.07
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  300 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  320 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  340 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  360 ms
+potentiometer: 0.20
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  380 ms
+potentiometer: 0.53
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  400 ms
+potentiometer: 0.73
+temperature: 0.15
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  420 ms
+potentiometer: 0.93
+temperature: 0.14
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  440 ms
+potentiometer: 1.00
+temperature: 0.14
+light: 0.07
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  460 ms
+potentiometer: 1.00
+temperature: 0.14
+light: 0.08
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  480 ms
+potentiometer: 0.95
+temperature: 0.14
+light: 0.09
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  500 ms
+potentiometer: 0.79
+temperature: 0.15
+light: 0.10
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  520 ms
+potentiometer: 0.70
+temperature: 0.15
+light: 0.13
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  540 ms
+potentiometer: 0.52
+temperature: 0.16
+light: 0.14
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  560 ms
+potentiometer: 0.32
+temperature: 0.16
+light: 0.16
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  580 ms
+potentiometer: 0.12
+temperature: 0.16
+light: 0.17
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  600 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.20
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  620 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.23
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  640 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.27
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  660 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.32
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  680 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.38
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  700 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.43
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  720 ms
+potentiometer: 0.13
+temperature: 0.16
+light: 0.47
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  740 ms
+potentiometer: 0.20
+temperature: 0.16
+light: 0.51
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  760 ms
+potentiometer: 0.29
+temperature: 0.16
+light: 0.52
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  780 ms
+potentiometer: 0.36
+temperature: 0.16
+light: 0.59
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  800 ms
+potentiometer: 0.17
+temperature: 0.16
+light: 0.63
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  820 ms
+potentiometer: 0.18
+temperature: 0.16
+light: 0.73
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  840 ms
+potentiometer: 0.36
+temperature: 0.16
+light: 0.77
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  860 ms
+potentiometer: 0.55
+temperature: 0.15
+light: 0.04
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  880 ms
+potentiometer: 0.62
+temperature: 0.15
+light: 0.02
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  900 ms
+potentiometer: 0.55
+temperature: 0.15
+light: 0.01
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  920 ms
+potentiometer: 0.43
+temperature: 0.16
+light: 0.01
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  940 ms
+potentiometer: 0.29
+temperature: 0.16
+light: 0.01
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  960 ms
+potentiometer: 0.44
+temperature: 0.16
+light: 0.95
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  980 ms
+potentiometer: 0.42
+temperature: 0.16
+light: 0.95
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1000 ms
+potentiometer: 0.41
+temperature: 0.16
+light: 0.95
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1020 ms
+potentiometer: 0.62
+temperature: 0.15
+light: 0.95
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1040 ms
+potentiometer: 0.68
+temperature: 0.15
+light: 0.95
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1060 ms
+potentiometer: 0.75
+temperature: 0.15
+light: 0.95
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1080 ms
+potentiometer: 0.71
+temperature: 0.15
+light: 0.95
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  1100 ms
+potentiometer: 0.58
+temperature: 0.15
+light: 0.53
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  1120 ms
+potentiometer: 0.39
+temperature: 0.16
+light: 0.30
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1140 ms
+potentiometer: 0.11
+temperature: 0.16
+light: 0.20
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1160 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.14
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  1180 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.11
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1200 ms
+potentiometer: 0.22
+temperature: 0.16
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1220 ms
+potentiometer: 0.49
+temperature: 0.15
+light: 0.08
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1240 ms
+potentiometer: 0.61
+temperature: 0.15
+light: 0.07
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1260 ms
+potentiometer: 0.69
+temperature: 0.15
+light: 0.06
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1280 ms
+potentiometer: 0.70
+temperature: 0.15
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1300 ms
+potentiometer: 0.68
+temperature: 0.15
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1320 ms
+potentiometer: 0.61
+temperature: 0.15
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1340 ms
+potentiometer: 0.66
+temperature: 0.15
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1360 ms
+potentiometer: 0.62
+temperature: 0.15
+light: 0.06
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1380 ms
+potentiometer: 0.37
+temperature: 0.15
+light: 0.06
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1400 ms
+potentiometer: 0.57
+temperature: 0.15
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1420 ms
+potentiometer: 0.71
+temperature: 0.15
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1440 ms
+potentiometer: 0.59
+temperature: 0.15
+light: 0.07
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1460 ms
+potentiometer: 0.21
+temperature: 0.16
+light: 0.07
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1480 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.08
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1500 ms
+potentiometer: 0.04
+temperature: 0.16
+light: 0.08
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1520 ms
+potentiometer: 0.51
+temperature: 0.15
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1540 ms
+potentiometer: 0.67
+temperature: 0.15
+light: 0.10
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1560 ms
+potentiometer: 0.72
+temperature: 0.14
+light: 0.10
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1580 ms
+potentiometer: 0.66
+temperature: 0.15
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1600 ms
+potentiometer: 0.47
+temperature: 0.15
+light: 0.07
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1620 ms
+potentiometer: 0.42
+temperature: 0.15
+light: 0.06
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1640 ms
+potentiometer: 0.60
+temperature: 0.15
+light: 0.06
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1660 ms
+potentiometer: 0.42
+temperature: 0.15
+light: 0.07
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1680 ms
+potentiometer: 0.41
+temperature: 0.15
+light: 0.09
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1700 ms
+potentiometer: 0.53
+temperature: 0.15
+light: 0.11
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1720 ms
+potentiometer: 0.11
+temperature: 0.15
+light: 0.12
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1740 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.14
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1760 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.16
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1780 ms
+potentiometer: 0.39
+temperature: 0.15
+light: 0.16
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  1800 ms
+potentiometer: 0.55
+temperature: 0.15
+light: 0.15
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  1820 ms
+potentiometer: 0.65
+temperature: 0.15
+light: 0.12
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  1840 ms
+potentiometer: 0.66
+temperature: 0.15
+light: 0.06
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  1860 ms
+potentiometer: 0.51
+temperature: 0.15
+light: 0.07
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  1880 ms
+potentiometer: 0.25
+temperature: 0.15
+light: 0.07
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  1900 ms
+potentiometer: 0.05
+temperature: 0.15
+light: 0.11
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  1920 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.02
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  1940 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.20
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  1960 ms
+potentiometer: 0.30
+temperature: 0.15
+light: 0.04
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  1980 ms
+potentiometer: 0.53
+temperature: 0.15
+light: 0.57
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  2000 ms
+potentiometer: 0.61
+temperature: 0.15
+light: 0.55
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  2020 ms
+potentiometer: 0.40
+temperature: 0.15
+light: 0.35
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  2040 ms
+potentiometer: 0.22
+temperature: 0.15
+light: 0.20
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2060 ms
+potentiometer: 0.09
+temperature: 0.15
+light: 0.21
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2080 ms
+potentiometer: 0.47
+temperature: 0.15
+light: 0.30
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2100 ms
+potentiometer: 0.70
+temperature: 0.15
+light: 0.50
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  2120 ms
+potentiometer: 0.67
+temperature: 0.15
+light: 0.78
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  2140 ms
+potentiometer: 0.26
+temperature: 0.15
+light: 0.94
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  2160 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.94
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  2180 ms
+potentiometer: 0.17
+temperature: 0.15
+light: 0.94
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  2200 ms
+potentiometer: 0.57
+temperature: 0.15
+light: 0.57
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  2220 ms
+potentiometer: 0.64
+temperature: 0.15
+light: 0.19
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  2240 ms
+potentiometer: 0.32
+temperature: 0.15
+light: 0.36
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  2260 ms
+potentiometer: 0.57
+temperature: 0.15
+light: 0.04
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  2280 ms
+potentiometer: 0.42
+temperature: 0.15
+light: 0.46
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2300 ms
+potentiometer: 0.22
+temperature: 0.15
+light: 0.88
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  2320 ms
+potentiometer: 0.60
+temperature: 0.15
+light: 0.95
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  2340 ms
+potentiometer: 0.49
+temperature: 0.15
+light: 0.95
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  2360 ms
+potentiometer: 0.07
+temperature: 0.15
+light: 0.95
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  2380 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.95
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  2400 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.95
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  2420 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.94
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  2440 ms
+potentiometer: 0.00
+temperature: 0.15
+light: 0.72
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  2460 ms
+potentiometer: 0.28
+temperature: 0.15
+light: 0.51
+switch0: 0
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  2480 ms
+potentiometer: 0.51
+temperature: 0.15
+light: 0.35
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  2500 ms
+potentiometer: 0.61
+temperature: 0.15
+light: 0.26
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2520 ms
+potentiometer: 0.73
+temperature: 0.14
+light: 0.21
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2540 ms
+potentiometer: 0.81
+temperature: 0.14
+light: 0.16
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2560 ms
+potentiometer: 0.87
+temperature: 0.14
+light: 0.15
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2580 ms
+potentiometer: 0.84
+temperature: 0.14
+light: 0.12
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2600 ms
+potentiometer: 0.70
+temperature: 0.15
+light: 0.11
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  2620 ms
+potentiometer: 0.56
+temperature: 0.15
+light: 0.10
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2640 ms
+potentiometer: 0.32
+temperature: 0.16
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2660 ms
+potentiometer: 0.08
+temperature: 0.16
+light: 0.08
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2680 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.08
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2700 ms
+potentiometer: 0.18
+temperature: 0.16
+light: 0.07
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2720 ms
+potentiometer: 0.15
+temperature: 0.16
+light: 0.07
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2740 ms
+potentiometer: 0.12
+temperature: 0.16
+light: 0.07
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2760 ms
+potentiometer: 0.50
+temperature: 0.15
+light: 0.07
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2780 ms
+potentiometer: 0.35
+temperature: 0.16
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  2800 ms
+potentiometer: 0.49
+temperature: 0.16
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  2820 ms
+potentiometer: 0.51
+temperature: 0.16
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  2840 ms
+potentiometer: 0.52
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  2860 ms
+potentiometer: 0.41
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  2880 ms
+potentiometer: 0.11
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  2900 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  2920 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  2940 ms
+potentiometer: 0.30
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  2960 ms
+potentiometer: 0.44
+temperature: 0.16
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  2980 ms
+potentiometer: 0.58
+temperature: 0.16
+light: 0.06
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3000 ms
+potentiometer: 0.70
+temperature: 0.15
+light: 0.07
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3020 ms
+potentiometer: 0.75
+temperature: 0.15
+light: 0.07
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3040 ms
+potentiometer: 0.55
+temperature: 0.16
+light: 0.08
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3060 ms
+potentiometer: 0.60
+temperature: 0.15
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3080 ms
+potentiometer: 0.65
+temperature: 0.15
+light: 0.10
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  3100 ms
+potentiometer: 0.64
+temperature: 0.15
+light: 0.12
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  3120 ms
+potentiometer: 0.85
+temperature: 0.14
+light: 0.14
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  3140 ms
+potentiometer: 0.93
+temperature: 0.14
+light: 0.17
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  3160 ms
+potentiometer: 0.91
+temperature: 0.14
+light: 0.21
+switch0: 0
+switch1: 1
+switch2: 0
+switch3: 0
+---------------------------
+time:  3180 ms
+potentiometer: 0.70
+temperature: 0.15
+light: 0.26
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3200 ms
+potentiometer: 0.48
+temperature: 0.16
+light: 0.30
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3220 ms
+potentiometer: 0.24
+temperature: 0.16
+light: 0.35
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3240 ms
+potentiometer: 0.34
+temperature: 0.16
+light: 0.37
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  3260 ms
+potentiometer: 0.60
+temperature: 0.16
+light: 0.52
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  3280 ms
+potentiometer: 0.59
+temperature: 0.16
+light: 0.65
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  3300 ms
+potentiometer: 0.31
+temperature: 0.16
+light: 0.69
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  3320 ms
+potentiometer: 0.42
+temperature: 0.16
+light: 0.78
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  3340 ms
+potentiometer: 0.71
+temperature: 0.15
+light: 0.84
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3360 ms
+potentiometer: 0.89
+temperature: 0.14
+light: 0.79
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3380 ms
+potentiometer: 1.00
+temperature: 0.14
+light: 0.94
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3400 ms
+potentiometer: 1.00
+temperature: 0.14
+light: 0.95
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3420 ms
+potentiometer: 1.00
+temperature: 0.14
+light: 0.95
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3440 ms
+potentiometer: 1.00
+temperature: 0.14
+light: 0.95
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3460 ms
+potentiometer: 0.96
+temperature: 0.14
+light: 0.95
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  3480 ms
+potentiometer: 0.88
+temperature: 0.14
+light: 0.95
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  3500 ms
+potentiometer: 0.80
+temperature: 0.15
+light: 0.90
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  3520 ms
+potentiometer: 0.71
+temperature: 0.15
+light: 0.42
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  3540 ms
+potentiometer: 0.61
+temperature: 0.16
+light: 0.22
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  3560 ms
+potentiometer: 0.66
+temperature: 0.15
+light: 0.13
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  3580 ms
+potentiometer: 0.45
+temperature: 0.16
+light: 0.03
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3600 ms
+potentiometer: 0.54
+temperature: 0.16
+light: 0.02
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3620 ms
+potentiometer: 0.54
+temperature: 0.16
+light: 0.07
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3640 ms
+potentiometer: 0.33
+temperature: 0.16
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3660 ms
+potentiometer: 0.38
+temperature: 0.16
+light: 0.04
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3680 ms
+potentiometer: 0.12
+temperature: 0.16
+light: 0.09
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3700 ms
+potentiometer: 0.06
+temperature: 0.16
+light: 0.17
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3720 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.15
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3740 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.48
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3760 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.60
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3780 ms
+potentiometer: 0.08
+temperature: 0.16
+light: 0.50
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  3800 ms
+potentiometer: 0.63
+temperature: 0.16
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  3820 ms
+potentiometer: 0.76
+temperature: 0.15
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  3840 ms
+potentiometer: 0.90
+temperature: 0.14
+light: 0.10
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3860 ms
+potentiometer: 0.91
+temperature: 0.14
+light: 0.03
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3880 ms
+potentiometer: 0.47
+temperature: 0.16
+light: 0.03
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3900 ms
+potentiometer: 0.12
+temperature: 0.16
+light: 0.03
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3920 ms
+potentiometer: 0.31
+temperature: 0.16
+light: 0.02
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3940 ms
+potentiometer: 0.35
+temperature: 0.16
+light: 0.04
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3960 ms
+potentiometer: 0.13
+temperature: 0.16
+light: 0.13
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  3980 ms
+potentiometer: 0.61
+temperature: 0.16
+light: 0.04
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4000 ms
+potentiometer: 0.82
+temperature: 0.15
+light: 0.54
+switch0: 1
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4020 ms
+potentiometer: 0.90
+temperature: 0.14
+light: 0.50
+switch0: 1
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4040 ms
+potentiometer: 0.68
+temperature: 0.15
+light: 0.40
+switch0: 1
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4060 ms
+potentiometer: 0.15
+temperature: 0.16
+light: 0.28
+switch0: 1
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4080 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.19
+switch0: 1
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4100 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.14
+switch0: 1
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4120 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4140 ms
+potentiometer: 0.28
+temperature: 0.16
+light: 0.07
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4160 ms
+potentiometer: 0.00
+temperature: 0.16
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  4180 ms
+potentiometer: 0.28
+temperature: 0.16
+light: 0.13
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  4200 ms
+potentiometer: 0.60
+temperature: 0.15
+light: 0.13
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  4220 ms
+potentiometer: 0.75
+temperature: 0.15
+light: 0.12
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  4240 ms
+potentiometer: 0.81
+temperature: 0.14
+light: 0.11
+switch0: 1
+switch1: 1
+switch2: 0
+switch3: 1
+---------------------------
+time:  4260 ms
+potentiometer: 0.81
+temperature: 0.14
+light: 0.12
+switch0: 1
+switch1: 1
+switch2: 0
+switch3: 1
+---------------------------
+time:  4280 ms
+potentiometer: 0.72
+temperature: 0.15
+light: 0.12
+switch0: 1
+switch1: 1
+switch2: 0
+switch3: 1
+---------------------------
+time:  4300 ms
+potentiometer: 0.49
+temperature: 0.16
+light: 0.17
+switch0: 1
+switch1: 1
+switch2: 0
+switch3: 1
+---------------------------
+time:  4320 ms
+potentiometer: 0.57
+temperature: 0.15
+light: 0.21
+switch0: 1
+switch1: 1
+switch2: 0
+switch3: 1
+---------------------------
+time:  4340 ms
+potentiometer: 0.97
+temperature: 0.14
+light: 0.27
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4360 ms
+potentiometer: 1.00
+temperature: 0.14
+light: 0.30
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4380 ms
+potentiometer: 1.00
+temperature: 0.13
+light: 0.05
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4400 ms
+potentiometer: 0.85
+temperature: 0.14
+light: 0.06
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4420 ms
+potentiometer: 0.42
+temperature: 0.16
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4440 ms
+potentiometer: 0.18
+temperature: 0.16
+light: 0.39
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4460 ms
+potentiometer: 0.20
+temperature: 0.16
+light: 0.35
+switch0: 0
+switch1: 0
+switch2: 1
+switch3: 0
+---------------------------
+time:  4480 ms
+potentiometer: 0.46
+temperature: 0.16
+light: 0.32
+switch0: 1
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  4500 ms
+potentiometer: 0.89
+temperature: 0.14
+light: 0.28
+switch0: 1
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  4520 ms
+potentiometer: 1.00
+temperature: 0.13
+light: 0.05
+switch0: 1
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  4540 ms
+potentiometer: 0.99
+temperature: 0.13
+light: 0.28
+switch0: 1
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  4560 ms
+potentiometer: 0.51
+temperature: 0.15
+light: 0.27
+switch0: 1
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  4580 ms
+potentiometer: 0.87
+temperature: 0.14
+light: 0.11
+switch0: 1
+switch1: 1
+switch2: 1
+switch3: 0
+---------------------------
+time:  4600 ms
+potentiometer: 0.92
+temperature: 0.14
+light: 0.18
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4620 ms
+potentiometer: 0.73
+temperature: 0.15
+light: 0.14
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4640 ms
+potentiometer: 0.99
+temperature: 0.13
+light: 0.11
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4660 ms
+potentiometer: 1.00
+temperature: 0.13
+light: 0.09
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4680 ms
+potentiometer: 0.73
+temperature: 0.15
+light: 0.11
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4700 ms
+potentiometer: 0.24
+temperature: 0.16
+light: 0.13
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  4720 ms
+potentiometer: 0.15
+temperature: 0.16
+light: 0.12
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  4740 ms
+potentiometer: 0.19
+temperature: 0.16
+light: 0.20
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4760 ms
+potentiometer: 0.38
+temperature: 0.15
+light: 0.28
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4780 ms
+potentiometer: 0.57
+temperature: 0.15
+light: 0.39
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4800 ms
+potentiometer: 0.62
+temperature: 0.15
+light: 0.33
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4820 ms
+potentiometer: 0.57
+temperature: 0.15
+light: 0.22
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  4840 ms
+potentiometer: 0.27
+temperature: 0.16
+light: 0.16
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  4860 ms
+potentiometer: 0.40
+temperature: 0.15
+light: 0.15
+switch0: 1
+switch1: 0
+switch2: 0
+switch3: 1
+---------------------------
+time:  4880 ms
+potentiometer: 0.49
+temperature: 0.15
+light: 0.21
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4900 ms
+potentiometer: 0.44
+temperature: 0.15
+light: 0.30
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4920 ms
+potentiometer: 0.20
+temperature: 0.16
+light: 0.37
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4940 ms
+potentiometer: 0.06
+temperature: 0.16
+light: 0.48
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4960 ms
+potentiometer: 0.43
+temperature: 0.15
+light: 0.22
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+time:  4980 ms
+potentiometer: 0.70
+temperature: 0.15
+light: 0.68
+switch0: 0
+switch1: 0
+switch2: 0
+switch3: 0
+---------------------------
+ENDENDENDENDENDENDENDENDENDENDENDENDENDEND
+Press and release switch 0
